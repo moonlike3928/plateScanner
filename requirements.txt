@@ -1,5 +1,4 @@
 opencv-python
 pytesseract
-sqlite3
 numpy
 tk
